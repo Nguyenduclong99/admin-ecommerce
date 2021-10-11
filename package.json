@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "Admin eCommerce ReactJS -d build"
+    "deploy": "Admin-eCommerce-ReactJS -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
