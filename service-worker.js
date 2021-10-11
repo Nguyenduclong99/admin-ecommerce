@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/admin-ecommerce/precache-manifest.c91205c42b262b4843b3bb0cb6418fe4.js"
+  "/admin1999store/precache-manifest.b6ea0e8df1e82b11d0aef212ff4c1454.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/admin-ecommerce/index.html", {
+workbox.routing.registerNavigationRoute("/admin1999store/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
